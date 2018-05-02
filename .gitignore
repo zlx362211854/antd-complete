@@ -3,12 +3,14 @@
 
 /uhs-admin.iml
 /node_modules
+/mock
+/public
+/server
+/src
+/tests
 # roadhog-api-doc ignore
 /src/utils/request-temp.js
 _roadhog-api-doc
-
-# production
-/dist
 
 # misc
 .DS_Store
